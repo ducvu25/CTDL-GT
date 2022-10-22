@@ -1,0 +1,46 @@
+The graph: 6 vertices and 10 edges
+
+Start: 0, goal vertice: 1
+The Euclidean distance: 1.00
+Line min:
+0 -> 1
+Length = 2.00
+Line max:
+0 -> 1
+Length = 2.00
+
+Start: 0, goal vertice: 2
+The Euclidean distance: 3.00
+Line min:
+0 -> 2
+Length = 4.00
+Line max:
+0 -> 1 -> 2
+Length = 10.00
+
+Start: 0, goal vertice: 3
+The Euclidean distance: 2.24
+Line min:
+0 -> 1 -> 3
+Length = 5.00
+Line max:
+0 -> 1 -> 2 -> 3
+Length = 16.00
+
+Start: 0, goal vertice: 4
+The Euclidean distance: 3.16
+Line min:
+0 -> 4
+Length = 5.00
+Line max:
+0 -> 1 -> 2 -> 3 -> 4
+Length = 20.00
+
+Start: 0, goal vertice: 5
+The Euclidean distance: 4.47
+Line min:
+0 -> 1 -> 3 -> 5
+Length = 8.00
+Line max:
+0 -> 1 -> 2 -> 3 -> 4 -> 5
+Length = 27.00

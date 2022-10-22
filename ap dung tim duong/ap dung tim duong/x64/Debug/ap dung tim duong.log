@@ -1,0 +1,4 @@
+﻿  ap dung tim duong.cpp
+D:\Nam 2\CTDL&GT\hoc_tap\grahp\ap dung tim duong\ap dung tim duong\ap dung tim duong.cpp(117,50): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Nam 2\CTDL&GT\hoc_tap\grahp\ap dung tim duong\ap dung tim duong\ap dung tim duong.cpp(119,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ap dung tim duong.vcxproj -> D:\Nam 2\CTDL&GT\hoc_tap\grahp\ap dung tim duong\x64\Debug\ap dung tim duong.exe
