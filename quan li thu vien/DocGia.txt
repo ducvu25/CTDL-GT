@@ -1,0 +1,30 @@
+015
+Tran
+An
+Nam
+1
+020
+Nguyen
+Vu Nhi
+Nu
+1
+010
+Tran
+An
+Nam2
+0
+025
+Nguyen2
+Vu Nhi
+Nu
+1
+005
+Tran
+An
+Nam3
+1
+019
+Nguyen
+Vu Nhi3
+Nu
+1

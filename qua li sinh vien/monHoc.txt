@@ -1,0 +1,28 @@
+KTLT
+Ki thuat lap trinh
+2
+3
+GTH
+Giai tich hai
+2
+2
+LSD
+Lich su dang
+2
+0
+CTDLGT
+Cau truc du lieu
+3
+3
+GTM
+Giai tich mot
+3
+2
+TTHCM
+Tu tuong Ho Chi Minh
+3
+0
+SXTK
+Xac suat thong ke
+2
+0
