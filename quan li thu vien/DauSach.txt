@@ -1,0 +1,53 @@
+AA
+Nhac va chien tranh
+230
+Tran Van Bon
+Nha xuat ban A
+Chien tranh
+5
+AA001 1 A11
+AA002 0 A12
+AA003 2 A13
+AA004 0 A14
+AA005 0 A15
+BB
+Chien tranh
+255
+Tran Van An
+Nha xuat ban A
+Chien tranh
+10
+BB001 1 B11
+BB002 1 B12
+BB003 1 B13
+BB004 0 B14
+BB005 0 B15
+BB006 0 B16
+BB007 0 B17
+BB008 0 B18
+BB009 0 B19
+BB010 0 B20
+CC
+Cuoc vui
+150
+Nguyen An
+Nha xuat ban B
+Cuoc song
+4
+CC001 1 C11
+CC002 0 C12
+CC003 0 C13
+CC004 0 C14
+DD
+Don phuong
+123
+Tran B
+Nha xuat ban B
+Cuoc song
+2
+DD001 0 D11
+DD002 0 D12
+
+
+
+
