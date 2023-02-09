@@ -1,0 +1,40 @@
+10M0
+Thuong
+2
+2
+M1
+Co ban
+4
+7
+M2
+Trung
+5
+5
+M3
+Co ban
+4
+2
+M4
+Thuong
+6
+4
+M5
+Cao cap
+6
+5
+M6
+Cao cap
+3
+4
+M7
+Co ban
+5
+6
+M8
+Co ban
+5
+4
+M9
+Co ban
+5
+8
