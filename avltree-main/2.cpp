@@ -1,4 +1,4 @@
-﻿#include<stdio.h>
+#include<stdio.h>
 #include<iostream>
 #include<queue>
 #include<conio.h>
@@ -274,12 +274,12 @@ int searchstandfor(AVLNode*& p, AVLNode*& q) // Tìm ki?m giá tr? c?n xóa
 	return 2; // Ti?p t?c tìm ki?m.
 }
 // tìm node trái cùng
-AVLNode* minValueNode(AVLNode* T){ // thêm
+AVLNode* minValueNode(AVLNode* T){ 
 	if(T->Left == NULL)
 		return T;
 	return T->Left;
 }
-int getHeight(AVLNode* T) { // thêm
+int getHeight(AVLNode* T) {
     // Nếu cây rỗng, trả về 0
     if (T == NULL) {
         return 0;
@@ -290,12 +290,12 @@ int getHeight(AVLNode* T) { // thêm
     // Trả về chiều cao của cây con lớn nhất, cộng thêm 1 để tính chiều cao của cây hiện tại
     return max(leftHeight, rightHeight) + 1;
 }
- // thêm
+
 int getBalance(AVLNode* T) { // trả về độ cân bằng
     if (T == NULL) return 0;          // nếu nút là NULL thì trả về 0
     return getHeight(T->Left) - getHeight(T->Right);    // trả về hiệu chiều cao cây con trái và cây con phải
 }
-///xoa node - thêm
+///xoa node
 AVLNode* deleteAVLNode(AVLNode* T, ItemType x) {
     if (T == NULL) return T; // node rỗng - không tìm thấy
     if (x < T->Info) T->Left = deleteAVLNode(T->Left, x); // xóa ở bên trái
@@ -483,15 +483,15 @@ int main()
 		case 1:
 		{
 			int value;
-			do
-			{
+			char c;
+			do{
 				cout << "Nhap node: ";
-				cin >> value; // thêm
-				if(value == -999)
-					break;
-				if (InsertNode(T, value) != -999)
-					cout << "nhap node thanh cong - nhap -999 de ket thuc!" << endl;
-			} while (value != -999);
+				cin >> value;
+				InsertNode(T, value);
+				cout << "Ban muon nhap tiep khong(y/n)?\n";
+				cout << "Lua chon: ";
+				cin >> c;
+			} while (c != 'n');
 			break;
 		}
 		case 2:
