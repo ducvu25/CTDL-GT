@@ -1,0 +1,28 @@
+GV00000001
+Tran Van Thong
+1/2/1998
+Nam
+Dien tu - Vien thong
+098724325
+tvt98@gmail.com
+GV00000002
+Nguyen Thi Hue
+25/3/1987
+Nu
+Cong nghe Thong tin
+034223856
+huenguyen87@gmail.com
+GV00000003
+Dao Thi Le
+6/8/1977
+Nu
+Dien tu - Vien thong
+093423743
+daole77@gmail.com
+GV00000004
+Vu Hoai An
+9/10/1999
+Nu
+Cong nghe Thong tin
+098374238
+anhoai99@gmail.com

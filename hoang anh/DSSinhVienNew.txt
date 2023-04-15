@@ -1,0 +1,80 @@
+0000000001
+Vu Trung Duc
+25/2/2003
+Nam
+DACLC2
+Ha Nam
+0342041436
+vuduc@gmail.com
+0000000002
+Nguyen Van An
+11/6/2003
+Nam
+DACLC2
+Ha Noi
+0123456789
+vanan21@gmail.com
+0000000003
+Nguyen Thuy Linh
+18/5/2003
+Nu
+DACLC2
+Ha Noi
+022412444
+thuylinhnguyen2003@gmail.com
+0000000004
+Le Van Huynh
+23/10/2003
+Nam
+DACLC2
+Thanh Hoa
+012412492
+huynhlevan2003@gmail.com
+0000000005
+Nguyen Van Hiep
+21/10/2003
+Nam
+DACLC1
+Bac Ninh
+098324263
+hiepnguyenvan21@gmail.com
+0000000006
+Nguyen Thi Phuong Anh
+25/10/2003
+Nu
+DACLC1
+Thanh Hoa
+082348235
+phuonganhnguyen2003@gmail.com
+0000000007
+Bui Duy Hoang Anh
+2/6/2003
+Nam
+DACLC1
+Thai Binh
+083528528
+hoanganhbui@gmail.com
+0000000008
+Tran Thi Ngoc Tam
+1/1/2003
+Nu
+DACLC2
+Ha Noi
+092748264
+ngoctamtran2003@gmail.com
+0000000009
+Do Duy Anh
+2/8/2003
+Nam
+DACLC1
+Ha Noi
+098247122
+duyanhdo2003@gmail.com
+00000000010
+Bui Thi Phuong Nhi
+5/5/2003
+Nu
+DACLC1
+Ha Noi
+098234723
+phuongnhibui@gmail.com
